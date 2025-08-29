@@ -15,15 +15,14 @@ Análises,
  
  
  -Computação-
-
  
- Area de trabalho virtuas,
+ -Area de trabalho virtuas,
  Chaves SSH,
  Etc...
  
  -Rede-
  
- Bastion - Jump Server,
+ -Bastion - Jump Server,
  Endereço IP públicos,
  ExpressRoute,
  Gateway,
@@ -32,7 +31,7 @@ Análises,
  Etc...
 
  -Armazenamento-
- Servidores,
+ -Servidores,
  DIscos,
  Migração,
  DevOps,
