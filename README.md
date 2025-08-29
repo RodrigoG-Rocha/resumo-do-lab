@@ -5,7 +5,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 Azure:
 
 Configurações:
-Idioma e Região,
+(Idioma e Região),
 Aparência + exibições de inicialização,
 Etc...
 
@@ -14,13 +14,13 @@ AI + Machine Learning,
 Análises,
  
  
- -Computação-
+ (Computação)
  
  -Area de trabalho virtuas,
  Chaves SSH,
  Etc...
  
- -Rede-
+ (Rede)
  
  -Bastion - Jump Server,
  Endereço IP públicos,
@@ -30,7 +30,7 @@ Análises,
  Emparelhamento de Rede,
  Etc...
 
- -Armazenamento-
+ (Armazenamento)
  -Servidores,
  DIscos,
  Migração,
