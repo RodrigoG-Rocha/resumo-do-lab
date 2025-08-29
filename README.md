@@ -12,15 +12,17 @@ Etc...
 Categorias:
 AI + Machine Learning
 Análises
+ 
+ 
  -Computação-
 
  
  Area de trabalho virtuas
  Chaves SSH
  Etc...
-
  
  -Rede-
+ 
  Bastion - Jump Server
  Endereço IP públicos
  ExpressRoute
@@ -28,11 +30,11 @@ Análises
  FirewallsEmparelhamento de Rede
  Etc...
 
- 
  -Armazenamento-
  Servidores
  DIscos
  Migração
+
 DevOps
 Etc...
 
